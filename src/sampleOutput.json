@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 2219,
+    "articles": [
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Igor Bonifacic",
+    "title": "Apple and Google oppose Senate antitrust efforts, claiming they'd hurt consumer security",
+    "description": "With the Senate Judiciary Committee scheduled to discuss the American Innovation and Choice Online Act\r\n and the Open App Markets Act\r\n this week, Apple and Google are stepping up their opposition to both bills. According to CNBC\r\n, Apple recently told lawmak…",
+    "url": "https://www.engadget.com/apple-google-antitrust-bills-opposition-220354732.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/1a0ed020-78a8-11ec-ad66-48cfb1f49e82",
+    "publishedAt": "2022-01-18T22:03:54Z",
+    "content": "With the Senate Judiciary Committee scheduled to discuss the American Innovation and Choice Online Act\r\n and the Open App Markets Act\r\n this week, Apple and Google are stepping up their opposition to… [+2147 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Blogspot.com"
+    },
+    "author": "noreply@blogger.com (Unknown)",
+    "title": "Apple confirms that the iPhone 13 and iPhone 13 Pro do not support noise cancellation during phone calls",
+    "description": "<table><tr><td></td></tr><tr><td>Photo credit: Gadgets Now</td></tr>\r\n</table> Apple has confirmed that  iPhone 13 and iPhone 13 Pro do not cancel noise  during phone calls, including  iPhone 13 mini and iPhone 13 Pro Max. Apple included the feature in the iP…",
+    "url": "https://techncruncher.blogspot.com/2022/01/apple-confirms-that-iphone-13-and.html",
+    "urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEh-n7lwgg9EpzDzwego2XamPRf3f-OyV2tcDObeB5Ro42vhT71e_5Y7qM8XyYSxAx55T4NhI-PAn5bZD1DjUqxTknMR4QF3NY8eiRDDrzo0XcAttsVZHDLe2_-0SJU2_zlaDIJUMRM1HA_x0zQNGUpJyB5C9R37aJGkVj5uHrPqjn0PRHRZR1go3iK_SA=w1200-h630-p-k-no-nu",
+    "publishedAt": "2022-01-18T14:27:00Z",
+    "content": "Apple has confirmed that  iPhone 13 and iPhone 13 Pro do not cancel noise  during phone calls, including  iPhone 13 mini and iPhone 13 Pro Max. Apple included the feature in the iPhone 12 series and … [+1126 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Ericsson sues Apple again over 5G patent licensing - Reuters",
+    "description": "Sweden's Ericsson <a href=\"https://www.reuters.com/companies/ERICb.ST\" target=\"_blank\">(ERICb.ST)</a> has filed another set of patent infringement lawsuits against Apple <a href=\"https://www.reuters.com/companies/2788.T\" target=\"_blank\">(2788.T)</a> in the la…",
+    "url": "https://www.reuters.com/technology/ericsson-sues-apple-again-over-5g-patent-licensing-2022-01-18/",
+    "urlToImage": "https://www.reuters.com/resizer/Vkoboar8KR6xLCxfqXlMU-fe51s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BOBBSF3B5RJCFDREILFBT6NP7Y.jpg",
+    "publishedAt": "2022-01-18T11:19:00Z",
+    "content": "STOCKHOLM, Jan 18 (Reuters) - Sweden's Ericsson (ERICb.ST) has filed another set of patent infringement lawsuits against Apple (2788.T) in the latest salvo between the two companies over royalty paym… [+1635 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Apple, Mylan lose Supreme Court bids to challenge patent review rule - Reuters",
+    "description": "The U.S. Supreme Court on Tuesday turned back challenges by Apple Inc and drugmaker Mylan Laboratories Ltd to a rule change that made it harder to contest patents before the U.S. Patent and Trademark Office.",
+    "url": "https://www.reuters.com/legal/transactional/apple-mylan-lose-supreme-court-bids-challenge-patent-review-rule-2022-01-18/",
+    "urlToImage": "https://www.reuters.com/resizer/TGnYT2sZEM95o9a9B2naBhgDhCU=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5ZAUHNUVA5N33DFZFUF2XQBPJA.jpg",
+    "publishedAt": "2022-01-18T20:18:00Z",
+    "content": "The company and law firm names shown above are generated automatically based on the text of the article. We are improving this feature as we continue to test and develop in beta. We welcome feedback,… [+2870 chars]"
+    }
+    
+    ]
+    }
